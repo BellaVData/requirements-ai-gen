@@ -1,4 +1,3 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: "Выявление требований: Сервис генерации изображений"
-description: "Спецификация требований и анализ пользовательских путей"
 markdown: kramdown
