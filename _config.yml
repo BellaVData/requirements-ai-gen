@@ -1,2 +1,4 @@
-remote_theme: pages-themes/leap-day
+remote_theme: pages-themes/architect@v0.2.0
+title: "AI Image Gen: Requirements"
+description: "Системный анализ и спецификация требований к MVP"
 markdown: kramdown
